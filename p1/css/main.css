@@ -1,0 +1,28 @@
+/*
+default style rule
+selector{
+  property: value;
+}
+
+*/
+
+body {
+  background-color: Lavendar;
+  background-color: #E6E6FA;
+  margin-top: 300px;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+a {
+  color: Thistle
+}
+p {
+  color: white;
+  text-align: center;
+}
