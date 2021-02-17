@@ -1,20 +1,20 @@
 body {
-  background-color: Almost Amethyst;
-  background-color: rgb(185,187,226);
+  background-color: Lavendar;
+  background-color: #E6E6FA;
   margin-top: 100px;
   margin-left: 100px;
   font-family: "overpass", sans-serif
 }
 h1 {
-  color: #E6E6FA;
+  color: white;
   font-family: "overpass", sans-serif;
 }
 h3 {
-  color: rgb(96,74,110);
+  color: rgb(185,187,226);
 }
 ul {
   color: #E6E6FA;
 }
 a:hover {
-  color: rgb(150,147,178);
+  color: rgb(136,122,183);
 }
