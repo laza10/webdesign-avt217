@@ -19,9 +19,12 @@ h2 {
   text-align: center;
 }
 a {
-  color: Thistle
+  color: thistle
 }
 p {
   color: white;
   text-align: center;
+}
+a:hover {
+  color: plum
 }
