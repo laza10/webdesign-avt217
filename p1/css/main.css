@@ -9,14 +9,17 @@ body {
   background-color: Lavendar;
   background-color: #E6E6FA;
   margin-top: 300px;
+  font-family: "Overpass", sans-serif
 }
 h1 {
   color: white;
   text-align: center;
+  font-family: "Overpass", sans-serif:
 }
 h2 {
   color: white;
   text-align: center;
+  font-family: "Overpass", sans-serif:
 }
 a {
   color: thistle
@@ -24,6 +27,7 @@ a {
 p {
   color: white;
   text-align: center;
+  font-family: "Overpass", sans-serif:
 }
 a:hover {
   color: plum
