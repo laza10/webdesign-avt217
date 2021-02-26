@@ -1,15 +1,19 @@
 body {
   background-color: rgba(207,194,191);
-  background-color: #CFC2BF
-  margin-top: 400px;
-  margin-left: 300px;
-  margin-right: 300px;
+  background-color: #CFC2BF;
+  margin-top: 70px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 70px;
   font-family: "Noto Sans SC", sans-serif
 }
 h1 {
   color: #968986;
   text-align: : justify;
   font-family: "Noto Sans SC", sans-serif:
+}
+.book {
+  color: #5B5351;
 }
 h2 {
   color: #968986;
