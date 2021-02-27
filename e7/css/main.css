@@ -5,33 +5,35 @@ body {
   margin-left: 250px;
   margin-right: 250px;
   margin-bottom: 70px;
-  font-family: "Noto Sans SC", sans-serif
+  font-family: "Noto Sans SC", sans-serif;
 }
 h1 {
   color: #968986;
   text-align: : justify;
-  font-family: "Noto Sans SC", sans-serif:
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 40px;
 }
-.book {
+h2, h3 {
+  color: #968986;
+  text-align: : justify;
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 25px;
+}
+#book {
   color: #5B5351;
-}
-h2 {
-  color: #968986;
-  text-align: justify;
-  font-family: "Noto Sans SC", sans-serif:
-}
-h3 {
-  color: #968986;
-  text-align: justify;
-  font-family: "Noto Sans SC", sans-serif:
 }
 p {
   color: white;
   text-align: justify;
-  font-family: "Noto Sans SC", sans-serif:
+  style=font-size: 15px;
+  font-family: "Noto Sans SC", sans-serif;
 }
 ul li {
   color: white;
   text-align: justify;
-  font-fmaily: "Noto Sans SC", sans-serif
+  font-fmaily: "Noto Sans SC", sans-serif;
+}
+.contrast {
+  font-style: normal;
+  font-weight: lighter;
 }
