@@ -1,0 +1,119 @@
+body {
+  background-color: white;
+  font-family: "overpass", sans-serif
+}
+h1 {
+  color: rgba(148,166,180);
+  text-align: : justify;
+  font-family: "overpass", sans-serif;
+  font-size: 40px;
+}
+.pattern {
+  color: black;
+  text-align: justify;
+  font-family: "overpass", sans-serif;
+  font-size: 30px;
+}
+a:hover {
+  color: rgb(129,153,189);
+}
+
+
+
+/*patterns*/
+
+/*Pattern 1*/
+div {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(199,227,220);
+  border: 10px solid white;
+  margin: -30px;
+  opacity: .60;
+  float: left
+}
+
+/*Pattern 2*/
+.square1 {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(237,208,212);
+  border: 10px solid white;
+  margin: -30px;
+  opacity: .60;
+  float: left
+}
+.square2 {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(229,237,208);
+  border: 10px solid white;
+  margin: -30px;
+  opacity: 1;
+  float: left
+}
+
+/*Pattern 3*/
+.circle1 {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(255,208,118);
+  border: 10px solid white;
+  margin: -15px;
+  opacity: .6;
+  float: left;
+  border-radius: 50%;
+}
+.circle2 {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(182,175,152);
+  border: 10px solid rgba(146,139,126);
+  margin: -50px;
+  opacity: -2;
+  float: right;
+}
+
+/*Pattern 4*/
+.circle3 {
+  width: 150px;
+  height: 80px;
+  background-color: rgba(254,112,112);
+  border: 10px solid black;
+  margin: -.9px;
+  opacity: .8;
+  float: left;
+  border-radius: 50%;
+}
+.circle4 {
+  width: 150px;
+  height: 300px;
+  background-color: rgba(112,162,254);
+  border: 10px solid black;
+  margin: 7px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%
+}
+.circle5 {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255,191,250);
+  border: 10px solid black;
+  margin: -10px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%;
+}
+.circle6 {
+  width: 300px;
+  height: 300px;
+  background-color: rgba(191,158,255);
+  border: 10px solid black;
+  margin: 7px;
+  opacity: .8;
+  float: left;
+  border-radius: 50%
+}
+
+/*Pattern 5*/
