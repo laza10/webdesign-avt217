@@ -117,3 +117,30 @@ div {
 }
 
 /*Pattern 5*/
+.square3 {
+  width: 150px;
+  height: 200px;
+  background-color: rgba(199,227,220);
+  border: 10px solid black;
+  margin: -30px;
+  opacity: .60;
+  float: left
+}
+.square4 {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(237,208,212);
+  border: 10px solid black;
+  margin: -30px;
+  opacity: .60;
+  float: left
+}
+.square5 {
+width: 150px;
+height: 200px;
+background-color: rgba(229,237,208);
+border: 10px solid black;
+margin: -30px;
+opacity: 2;
+float: left
+}
