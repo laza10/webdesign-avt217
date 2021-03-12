@@ -61,7 +61,7 @@ div {
   border: 10px solid white;
   margin: -15px;
   opacity: .6;
-  float: left;
+  float: right;
   border-radius: 50%;
 }
 .circle2 {
@@ -70,7 +70,7 @@ div {
   background-color: rgba(182,175,152);
   border: 10px solid rgba(146,139,126);
   margin: -50px;
-  opacity: -2;
+  opacity: .9;
   float: right;
 }
 
