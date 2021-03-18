@@ -1,5 +1,4 @@
 body {
-  background-color: Lavendar;
   background-color: #E6E6FA;
   margin-top: 100px;
   margin-left: 100px;
@@ -17,4 +16,31 @@ ul {
 }
 a:hover {
   color: rgb(136,122,183);
+}
+
+/******* layout styles ******/
+header {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: #E6E6FA;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: #E6E6FA;
+  display: flow-root;
+}
+.work {
+  width: 50%;
+  background-color: #E6E6FA;
+  float: left;
+}
+
+/******** media queries ********/
+@media screen and (max-width: 680px) {
+  .work {
+    width: 150%;
+    margin-bottom: 50px;
+  }
+
 }
