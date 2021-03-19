@@ -13,6 +13,7 @@ h3 {
 }
 ul {
   color: #E6E6FA;
+  padding: 0;
 }
 a:hover {
   color: rgb(136,122,183);
@@ -25,7 +26,7 @@ header {
   background-color: #E6E6FA;
 }
 main {
-  width: 75vw;
+  width: 60vw;
   margin: 25px auto;
   background-color: #E6E6FA;
   display: flow-root;
@@ -39,7 +40,7 @@ main {
 /******** media queries ********/
 @media screen and (max-width: 680px) {
   .work {
-    width: 150%;
+    width: 180%;
     margin-bottom: 50px;
   }
 
