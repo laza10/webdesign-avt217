@@ -18,6 +18,8 @@ hr {
 }
 #about {
   background-color: #ffd700;
+  font-size: 2rem;
+  line-height: 1.45;
 }
 
 /* image styles */
@@ -61,7 +63,7 @@ h6 {
   letter-spacing: .5px;
 }
 p {
-  font-size: 1.2rem;
+  font-size: 2rem;
   margin: 0 0 1rem;
 }
 .large-text {
@@ -70,6 +72,7 @@ p {
 }
 .name {
   font-style: italic;
+  color: dodgerblue;
 }
 /* link styles */
 a, a:link, a:visited, a:active {
@@ -111,6 +114,8 @@ button a:hover {
   }
   #dauphines {
     background-color: dodgerblue;
+    font-size: 2rem;
+    line-height: 1.45;
   }
   h1 {
     font-size: 2.65rem;
@@ -120,6 +125,6 @@ button a:hover {
     font-size: 2rem;
   }
   .large-text {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 }
