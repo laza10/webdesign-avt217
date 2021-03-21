@@ -66,6 +66,10 @@ p {
   font-size: 1.5rem;
   margin: 0 0 1rem;
 }
+#dauphines {
+  font-size: 2rem;
+  line-height: 1.45;
+}
 .large-text {
   font-size: 2rem;
   line-height: 1.45;
@@ -114,8 +118,6 @@ button a:hover {
   }
   #dauphines {
     background-color: dodgerblue;
-    font-size: 3rem;
-    line-height: 1.45;
   }
   h1 {
     font-size: 2.65rem;
