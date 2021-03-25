@@ -58,7 +58,7 @@
 }
 .footer {
   width: 620px;
-  display: flow-root;
+  margin-top: 520px;
 }
 
 /* Blog Layout*/
@@ -101,17 +101,20 @@
   background-color: tomato;
 }
 .box8 {
-  width: 200px;
+  width: 180px;
   height: 100px;
   margin-left: 530px;
-  margin-bottom: 10px;
+  margin-top: -830px;
+  margin-bottom: 240px;
+  padding-top: 100px;
   background-color: dodgerblue;
 }
 .box9 {
-  width: 200px;
+  width: 180px;
   height: 100px;
   margin-left: 530px;
   margin-bottom: 10px;
+  padding-top: 100px;
   background-color: dodgerblue;
 }
 .section1 {
