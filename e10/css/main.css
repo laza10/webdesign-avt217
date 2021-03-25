@@ -1,0 +1,63 @@
+/* Checkerboard*/
+.purple {
+  width: 100px;
+  height: 100px;
+  background-color: #e5ccff;
+  float: left;
+}
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: #75b9ff;
+  float: left;
+}
+.board {
+  width: 800px;
+  display: flow-root;
+}
+
+/* 3 Column Grid*/
+.box1, .box2, .box3 {
+  width: 200px;
+  height: 500px;
+  margin: 0 auto;
+  float: left;
+  margin-left: 10px;
+  background-color: #ccccff;
+}
+.head {
+  width: 620px;
+  height: 100px;
+  margin-bottom: 10px;
+  float: left;
+  margin-left: 10px;
+  background-color: #ccffff;
+}
+.foot {
+  width: 620px;
+  height: 100px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+  background-color: #cc99ff;
+}
+.nav {
+  width: 620px;
+  height: 30px;
+  margin-bottom: 10px;
+  float: left;
+  margin-left: 10px;
+  background-color: #99ccff;
+}
+.header {
+  width: 620px;
+  display: flow-root;
+}
+.navigation {
+  width: 620px;
+  display: flow-root;
+}
+.footer {
+  width: 620px;
+  display: flow-root;
+}
