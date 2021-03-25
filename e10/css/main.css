@@ -29,7 +29,6 @@
   width: 620px;
   height: 100px;
   margin-bottom: 10px;
-  float: left;
   margin-left: 10px;
   background-color: #ccffff;
 }
@@ -37,7 +36,6 @@
   width: 620px;
   height: 100px;
   margin-top: 10px;
-  float: left;
   margin-left: 10px;
   background-color: #cc99ff;
 }
@@ -45,19 +43,19 @@
   width: 620px;
   height: 30px;
   margin-bottom: 10px;
-  float: left;
   margin-left: 10px;
   background-color: #99ccff;
 }
 .header {
   width: 620px;
-  display: flow-root;
 }
 .navigation {
+  width: 620px;
+}
+.main {
   width: 620px;
   display: flow-root;
 }
 .footer {
   width: 620px;
-  display: flow-root;
 }
