@@ -60,3 +60,65 @@
   width: 620px;
   display: flow-root;
 }
+
+/* Blog Layout*/
+.header1 {
+  width: 700px;
+  height: 120px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  background-color: #ffcc99;
+}
+.box4 {
+  width: 490px;
+  height: 300px;
+  margin-left: 10px;
+  margin-top: 40px;
+  background-color: tomato;
+}
+.box5 {
+  width: 490px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  background-color: tomato;
+}
+.box6 {
+  width: 490px;
+  height: 300px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 100px;
+  background-color: tomato;
+}
+.box7 {
+  width: 490px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  background-color: tomato;
+}
+.box8 {
+  width: 200px;
+  height: 100px;
+  margin-left: 530px;
+  margin-bottom: 10px;
+  background-color: dodgerblue;
+}
+.box9 {
+  width: 200px;
+  height: 100px;
+  margin-left: 530px;
+  margin-bottom: 10px;
+  background-color: dodgerblue;
+}
+.section1 {
+  width: 490px;
+  display: flow-root;
+}
+.section2 {
+  width: 200px;
+  display: flow-root;
+}
