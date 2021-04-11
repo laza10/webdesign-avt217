@@ -1,0 +1,27 @@
+/* layout */
+body {
+  margin: 0;
+  font-family: "Istok Web", sans-serif;
+  font-weight: 400;
+  margin-top: 90px;
+  line-height: 1;
+  background-image: linear-gradient(to right,#FFE5F7,#E5F2FF);
+  height:
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #D4D0F2;
+}
+img {
+  margin-left: 120px;
+  margin-bottom: 100px;
+}
