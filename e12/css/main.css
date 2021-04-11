@@ -1,0 +1,73 @@
+
+.leftside h1 {
+  width: 650px;
+  margin-left: 55px;
+  font-size: 30px;
+  font-family: "Poppin";
+  font-style: italic;
+}
+
+.leftside {
+  width: 680px;
+  float: left;
+  margin-left: 100px;
+  text-align: justify;
+  line-height: 25px;
+  font-family: "Poppin", sans-serif;
+}
+
+img {
+  width: 650px;
+  margin-left: 130px;
+}
+
+.rightside h1{
+  width: 680px;
+  float: left;
+  top: 100px;
+  left: 1010px;
+  text-align: justify;
+  font-size: 60px;
+  line-height: 120px;
+  position: absolute;
+}
+
+.rightside h2 {
+  width: 500px;
+  float: left;
+  top: 520px;
+  left: 990px;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 20px;
+  position: absolute;
+}
+
+/* media queries */
+@media only screen and (max-width: 700px) {
+  body {
+    width: 50%;
+  }
+  .leftside {
+    width: 400px;
+  }
+  .leftside h1 {
+    width: 300px;
+    font-size: 15px;
+    margin-top: 230px;
+  }
+  img {
+    width: 400px;
+  }
+  .rightside h1 {
+    font-size: 35px;
+    line-height: 35px;
+    left: 240px;
+    top: 510px;
+  }
+  .rightside h2 {
+    font-size: 15px;
+    left: 210px;
+    top: 635px;
+  }
+}
