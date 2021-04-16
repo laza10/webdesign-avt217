@@ -1,0 +1,144 @@
+.body {
+  width: 300px;
+  height: 350px;
+  background-color: rgb(204,204,255);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  animation: color-shift 3s ease infinite
+}
+@keyframes color-shift {
+  0% {background-color: rgb(204,204,255);}
+  50% {background-color: rgb(242,208,235);}
+  100% {background-color: rgb(208,216,242);}
+}
+.stomach {
+  width: 200px;
+  height: 150px;
+  background-color: rgb(255,252,222);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 298px;
+  left: 150px;
+}
+.lefteye {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 200px;
+  left: 180px;
+}
+.righteye {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 200px;
+  left: 290px;
+}
+.mouth {
+  width: 30px;
+  height: 30px;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  border-left: 5px solid rgb(204,204,255);
+  border-top: 5px solid rgb(204,204,255);
+  border-radius: 50%;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 210px;
+  left: 230px;
+  animation: mouth-shift 3s ease infinite
+}
+@keyframes mouth-shift {
+  0% {
+    border-left: 5px solid rgb(204,204,255);
+    border-top: 5px solid rgb(204,204,255);
+  }
+  50% {
+    border-left: 5px solid rgb(242,208,235);
+    border-top: 5px solid rgb(242,208,235);
+  }
+  100% {
+    border-left: 5px solid rgb(208,216,242);
+    border-top: 5px solid rgb(208,216,242);
+  }
+}
+.tentacle1 {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(204,204,255);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 425px;
+  left: 145px;
+  animation: move-1 3s ease infinite;
+
+}
+@keyframes move-1 {
+  0% {left: 115px;}
+  50% {left: 125px;}
+  100% {left: 105px;}
+  0% {background-color: rgb(204,204,255);}
+  50% {background-color: rgb(242,208,235);}
+  100% {background-color: rgb(208,216,242);}
+
+}
+.tentacle2 {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(204,204,255);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 435px;
+  left: 198px;
+  animation: move-2 3s ease infinite;
+}
+@keyframes move-2 {
+  0% {left: 170px;}
+  50% {left: 180px;}
+  100% {left: 160px;}
+  0% {background-color: rgb(204,204,255);}
+  50% {background-color: rgb(242,208,235);}
+  100% {background-color: rgb(208,216,242);}
+}
+.tentacle3 {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(204,204,255);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 435px;
+  left: 252px;
+  animation: move-3 3s ease infinite;
+}
+@keyframes move-3 {
+  0% {left: 240px;}
+  50% {left: 250px;}
+  100% {left: 230px;}
+  0% {background-color: rgb(204,204,255);}
+  50% {background-color: rgb(242,208,235);}
+  100% {background-color: rgb(208,216,242);}
+}
+.tentacle4 {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(204,204,255);
+  border-radius: 50% 50% 50% 50% / 75% 60% 40% 40%;
+  position: absolute;
+  top: 425px;
+  left: 305px;
+  animation: move-4 3s ease infinite;
+}
+@keyframes move-4 {
+  0% {left: 295px;}
+  50% {left: 305px;}
+  100% {left: 285px;}
+  0% {background-color: rgb(204,204,255);}
+  50% {background-color: rgb(242,208,235);}
+  100% {background-color: rgb(208,216,242);}
+}
